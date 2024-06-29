@@ -6,7 +6,7 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-jerry609.vercel.app/graph?username=jerry609&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jerry609&theme=dracula)](https://github.com/jerry609/github-readme-activity-graph)
 
 
 <div align="center">
