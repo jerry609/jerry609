@@ -1,16 +1,14 @@
-## Hi there 👋
+![](https://raw.githubusercontent.com/jerry609/jerry609/main/dist/github-contribution-grid-snake.svg)
 
-<!--
-**jerry609/jerry609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=jerry609" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry609&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
 
-Here are some ideas to get you started:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-jerry609.vercel.app/graph?username=jerry609&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jerry609" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=jerry609" />
+</div>
