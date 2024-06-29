@@ -1,3 +1,7 @@
+- 👨‍🔬 [**INFJ/INTJ**](https://www.16personalities.com/entj-personality) Personality
+- 🏫 Studied at [**UCAS-IIE**](http://www.iie.ac.cn/)
+
+
 ![](https://raw.githubusercontent.com/jerry609/jerry609/main/dist/github-contribution-grid-snake.svg)
 <div align="center">
 <span>&emsp;&emsp;</span>
