@@ -1,4 +1,4 @@
-- 👨‍🔬 [**INFJ/INTJ**][(https://www.16personalities.com/intj-personality)](https://www.16personalities.com/infj-personality) Personality
+- 👨‍🔬 [**INFJ/INTJ**](https://www.16personalities.com/infj-personality) Personality
 - 🏫 Studied at [**UCAS-IIE**](http://www.iie.ac.cn/)
 
 
