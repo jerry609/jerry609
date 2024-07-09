@@ -1,6 +1,6 @@
 - 👨‍🔬 [**INFJ/INTJ**](https://www.16personalities.com/infj-personality) Personality
 - 🏫 Studied at [**UCAS-IIE**](http://www.iie.ac.cn/)
-- Connected with gmail (jeffy353866@gmail.com)
+- Connect with gmail (jeffy353866@gmail.com)
 
 
 ![](https://raw.githubusercontent.com/jerry609/jerry609/main/dist/github-contribution-grid-snake.svg)
