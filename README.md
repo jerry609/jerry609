@@ -1,4 +1,3 @@
-- 👨‍🔬 [**INFJ/INTJ**](https://www.16personalities.com/infj-personality) Personality
 - 🏫 Studied at [**UCAS-IIE**](http://www.iie.ac.cn/)
 - Connect with gmail (jeffy353866@gmail.com)
 
